@@ -4,6 +4,12 @@ Welcome to my personal portfolio! 🚀
 
 This website showcases my profile, skills, projects, journey, and selected work through an interactive React experience.
 
+## 🌐 Live Website
+
+### 👉 [View My Portfolio](https://tqx26y-llbwa6kv5-arcadawebapps6.vercel.app)
+
+Use the link above to open and review the live portfolio.
+
 ## ✨ Highlights
 
 - Modern interactive portfolio built with React + TypeScript
