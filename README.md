@@ -6,7 +6,7 @@ This website showcases my profile, skills, projects, journey, and selected work 
 
 ## 🌐 Live Website
 
-### 👉 [View My Portfolio](https://tqx26y-llbwa6kv5-arcadawebapps6.vercel.app)
+### 👉 [View My Portfolio](https://592xb8-dubtbe6ls-arcadawebapps8.vercel.app)
 
 Use the link above to open and review the live portfolio.
 
